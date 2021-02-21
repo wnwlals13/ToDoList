@@ -100,33 +100,6 @@ button {
   border: 1px solid #6cc0e5;
   color: #6cc0e5;
 }
-*/
-
-/*
-.checkbox + label:before {
-  content: " ";
-  display: block;
-  width: 21px; 
-  height: 21px; 
-  margin-right: 20px;
-  border: 1px solid #cacece;
-  border-radius: 50%;
-}
-
-.checkbox:checked + label:before {
-  display: block;
-  margin-right: 20px;
-  content: "";
-  border-radius: 50%;
-  content: "\2714";
-  color: #6cc0e5;
-  text-align: center;
-  border: 1px solid #6cc0e5;
-}
-*/
-
-.item_name {
-}
 
 .item_delete {
   font-size: 16px;

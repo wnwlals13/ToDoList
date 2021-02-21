@@ -44,7 +44,6 @@ function makeItem(shoppingItem) {
   <div class="item">
     <input id="${id}" class="checkbox" type="checkbox"/>
     <label class="inputLabel" for="${id}" data-id=${id} >${shoppingItem}</label>
-    <div class="item_name"></div>
     <button class="item_delete"><i class="fas fa-trash" data-id=${id}></i></button>
   </div>
     `;
